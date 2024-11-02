@@ -1,12 +1,26 @@
-h1{
+.h1{
     text-align: center;
-    background-color: chocolate;
+    background-color: cyan;
     color: white;
 }
 
-fieldset{
+.fieldset{
     text-align: justify;
     background-color: chocolate;
     color: white;
 
 }
+.p{
+text-align: justify;
+background-color: rgb(1, 0, 0);
+color: rgb(240, 239, 239);
+
+}
+
+body{
+    background-image: url(../2024-10-30/img/pexels-fabianwiktor-994605.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}   
